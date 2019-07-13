@@ -5,3 +5,5 @@ title = "totland.dev"
   AuthorName = "Karl H. Totland"
   GitHubUser = "karlhto"
 
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
