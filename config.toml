@@ -1,0 +1,7 @@
+baseURL = "https://totland.dev/"
+title = "totland.dev"
+
+[params]
+  AuthorName = "Karl H. Totland"
+  GitHubUser = "karlhto"
+
