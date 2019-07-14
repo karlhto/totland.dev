@@ -1,6 +1,15 @@
 baseURL = "https://totland.dev/"
 title = "totland.dev"
 
+[author]
+  name = "Karl H. Totland"       #Author name
+  github = "karlhto"     #Github username
+  gitlab = "karlhto"     #Gitlab username
+  linkedin = "karl-h-totland-520583133"   #LinkedIn username
+  facebook = ""   #Facebook username
+  twitter = ""    #Twitter username
+  instagram = ""  #Instagram username
+
 [params]
   AuthorName = "Karl H. Totland"
   GitHubUser = "karlhto"
