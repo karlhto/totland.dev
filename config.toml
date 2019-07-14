@@ -1,7 +1,12 @@
-baseURL = "https://totland.dev/"
+baseurl = "https://totland.dev/"
 title = "totland.dev"
+canonifyurls = true
+theme = "kiera"
 
+summaryLength = 30
+enableEmoji = true
 pygmentsCodeFences = true
+
 googleAnalytics = "UA-143827897-1"
 
 [author]
@@ -12,10 +17,6 @@ googleAnalytics = "UA-143827897-1"
   facebook = ""   #Facebook username
   twitter = ""    #Twitter username
   instagram = ""  #Instagram username
-
-[params]
-  AuthorName = "Karl H. Totland"
-  GitHubUser = "karlhto"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
