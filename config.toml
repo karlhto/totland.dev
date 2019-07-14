@@ -1,6 +1,9 @@
 baseURL = "https://totland.dev/"
 title = "totland.dev"
 
+pygmentsCodeFences = true
+googleAnalytics = "UA-143827897-1"
+
 [author]
   name = "Karl H. Totland"       #Author name
   github = "karlhto"     #Github username
